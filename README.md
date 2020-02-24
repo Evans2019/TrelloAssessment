@@ -3,7 +3,7 @@
 Install
 Clone the git repository on your computer
 
-$ git clone https://github.com/neoighodaro-articles/trello-clone-vue-laravel.git
+$ git clone repository
 You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
 After cloning the application, you need to install it's dependencies.
